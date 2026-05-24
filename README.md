@@ -2,7 +2,7 @@
 guide of configuration for cursors style mac
 ## Installation Steps
 
-1. **Download** the `mac-os-x-cursors.zip` file provided in this repository.
+1. **Download** the `MacOSX-Cursor.zip` file provided in this repository.
 2. **Extract the file:** Right-click the zip file and select "Extract Here".
 3. **Verify the folder content:** Ensure that inside your extracted folder there is an `index.theme` file. This is crucial for the system to recognize the cursor theme.
 4. **Open your File Manager** and press **Ctrl + H** to reveal hidden folders.
